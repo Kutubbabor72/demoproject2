@@ -1,0 +1,11 @@
+public class DemoProject2Class2 {
+
+
+public class main void (String [] args ) {
+
+System.out.println("Assalamualaikum World !");
+
+}
+
+
+}

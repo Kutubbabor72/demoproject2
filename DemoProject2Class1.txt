@@ -1,0 +1,11 @@
+public class DemoProject2Class1 {
+
+
+public class main void (String [] args ) {
+
+System.out.println("We are practicing git git hub");
+
+}
+
+
+}
